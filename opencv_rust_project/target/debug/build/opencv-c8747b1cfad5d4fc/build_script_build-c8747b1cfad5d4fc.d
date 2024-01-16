@@ -1,0 +1,10 @@
+/Users/san./Documents/GitHub/Rust-for-openCv/opencv_rust_project/target/debug/build/opencv-c8747b1cfad5d4fc/build_script_build-c8747b1cfad5d4fc: /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/binding-generator.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/cmake_probe.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/docs.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/generator.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/library.rs
+
+/Users/san./Documents/GitHub/Rust-for-openCv/opencv_rust_project/target/debug/build/opencv-c8747b1cfad5d4fc/build_script_build-c8747b1cfad5d4fc.d: /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/binding-generator.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/cmake_probe.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/docs.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/generator.rs /Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/library.rs
+
+/Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build.rs:
+/Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/binding-generator.rs:
+/Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/cmake_probe.rs:
+/Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/docs.rs:
+/Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/generator.rs:
+/Users/san./.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.88.7/build/library.rs:
